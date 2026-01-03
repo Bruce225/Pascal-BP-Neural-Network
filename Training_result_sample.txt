@@ -1,0 +1,257 @@
+Epoch 1000: mmse = 4.9833
+Epoch 2000: mmse = 4.1037
+Epoch 3000: mmse = 3.6745
+Epoch 4000: mmse = 3.3791
+Epoch 5000: mmse = 3.1700
+Epoch 6000: mmse = 3.0126
+Epoch 7000: mmse = 2.8904
+Epoch 8000: mmse = 2.8006
+Epoch 9000: mmse = 2.7377
+Epoch 10000: mmse = 2.6938
+Epoch 11000: mmse = 2.6463
+Epoch 12000: mmse = 2.6039
+Epoch 13000: mmse = 2.5529
+Epoch 14000: mmse = 2.5105
+Epoch 15000: mmse = 2.4692
+Epoch 16000: mmse = 2.4303
+Epoch 17000: mmse = 2.4010
+Epoch 18000: mmse = 2.3796
+Epoch 19000: mmse = 2.3434
+Epoch 20000: mmse = 2.3309
+Epoch 21000: mmse = 2.3053
+Epoch 22000: mmse = 2.2757
+Epoch 23000: mmse = 2.2534
+Epoch 24000: mmse = 2.2301
+Epoch 25000: mmse = 2.2036
+Epoch 26000: mmse = 2.1841
+Epoch 27000: mmse = 2.1663
+Epoch 28000: mmse = 2.1484
+Epoch 29000: mmse = 2.1407
+Epoch 30000: mmse = 2.1203
+Epoch 31000: mmse = 2.1218
+Epoch 32000: mmse = 2.1008
+Epoch 33000: mmse = 2.0898
+Epoch 34000: mmse = 2.0773
+Epoch 35000: mmse = 2.0700
+Epoch 36000: mmse = 2.0509
+Epoch 37000: mmse = 2.0406
+Epoch 38000: mmse = 2.0195
+Epoch 39000: mmse = 2.0045
+Epoch 40000: mmse = 1.9893
+Epoch 41000: mmse = 1.9721
+Epoch 42000: mmse = 1.9562
+Epoch 43000: mmse = 1.9419
+Epoch 44000: mmse = 1.9344
+Epoch 45000: mmse = 1.9249
+Epoch 46000: mmse = 1.9176
+Epoch 47000: mmse = 1.9012
+Epoch 48000: mmse = 1.8963
+Epoch 49000: mmse = 1.8840
+Epoch 50000: mmse = 1.8906
+Sample 825, Predict 70.3055, Real 73.7000, Error 3.3945
+Sample 826, Predict 34.1584, Real 35.7600, Error 1.6016
+Sample 827, Predict 20.2061, Real 21.0200, Error 0.8139
+Sample 828, Predict 46.6638, Real 53.9000, Error 7.2362
+Sample 829, Predict 33.3934, Real 31.8100, Error 1.5834
+Sample 830, Predict 75.5472, Real 57.2300, Error 18.3172
+Sample 831, Predict 11.6485, Real 18.0300, Error 6.3815
+Sample 832, Predict 35.9022, Real 37.4400, Error 1.5378
+Sample 833, Predict 20.0676, Real 19.7700, Error 0.2976
+Sample 834, Predict 31.6979, Real 39.8400, Error 8.1421
+Sample 835, Predict 38.2662, Real 36.5900, Error 1.6762
+Sample 836, Predict 34.9298, Real 33.0400, Error 1.8898
+Sample 837, Predict 41.0608, Real 44.5200, Error 3.4592
+Sample 838, Predict 41.6624, Real 42.3500, Error 0.6876
+Sample 839, Predict 48.8324, Real 51.0600, Error 2.2276
+Sample 840, Predict 42.6657, Real 43.0100, Error 0.3443
+Sample 841, Predict 34.5433, Real 33.3600, Error 1.1833
+Sample 842, Predict 24.5550, Real 23.6900, Error 0.8650
+Sample 843, Predict 35.9022, Real 39.4900, Error 3.5878
+Sample 844, Predict 54.7053, Real 62.9400, Error 8.2347
+Sample 845, Predict 40.2598, Real 40.0600, Error 0.1998
+Sample 846, Predict 14.1129, Real 17.2200, Error 3.1071
+Sample 847, Predict 31.8844, Real 32.6600, Error 0.7756
+Sample 848, Predict 55.6083, Real 59.0900, Error 3.4817
+Sample 849, Predict 39.0617, Real 37.4300, Error 1.6317
+Sample 850, Predict 14.0127, Real 8.4900, Error 5.5227
+Sample 851, Predict 18.7244, Real 17.5400, Error 1.1844
+Sample 852, Predict 64.3035, Real 65.2000, Error 0.8965
+Sample 853, Predict 50.1936, Real 51.7200, Error 1.5264
+Sample 854, Predict 8.1978, Real 9.3100, Error 1.1122
+Sample 855, Predict 33.5840, Real 31.0200, Error 2.5640
+Sample 856, Predict 9.7112, Real 9.9900, Error 0.2788
+Sample 857, Predict 14.7289, Real 13.3300, Error 1.3989
+Sample 858, Predict 33.7750, Real 33.7000, Error 0.0750
+Sample 859, Predict 33.7750, Real 36.3500, Error 2.5750
+Sample 860, Predict 58.0564, Real 60.2800, Error 2.2236
+Sample 861, Predict 31.1415, Real 29.0000, Error 2.1415
+Sample 862, Predict 33.5840, Real 29.5500, Error 4.0340
+Sample 863, Predict 46.2664, Real 53.6900, Error 7.4236
+Sample 864, Predict 34.7364, Real 38.1100, Error 3.3736
+Sample 865, Predict 44.4701, Real 43.5800, Error 0.8901
+Sample 866, Predict 45.4695, Real 41.6400, Error 3.8295
+Sample 867, Predict 23.1380, Real 17.6000, Error 5.5380
+Sample 868, Predict 8.1978, Real 3.3200, Error 4.8778
+Sample 869, Predict 36.4895, Real 35.3000, Error 1.1895
+Sample 870, Predict 44.2699, Real 39.3000, Error 4.9699
+Sample 871, Predict 53.2321, Real 56.6100, Error 3.3779
+Sample 872, Predict 46.6638, Real 55.9000, Error 9.2362
+Sample 873, Predict 14.9401, Real 13.8200, Error 1.1201
+Sample 874, Predict 33.2031, Real 35.3400, Error 2.1369
+Sample 875, Predict 41.2613, Real 32.7200, Error 8.5413
+Sample 876, Predict 34.7364, Real 33.0500, Error 1.6864
+Sample 877, Predict 17.2143, Real 18.0000, Error 0.7857
+Sample 878, Predict 34.7364, Real 36.8400, Error 2.1036
+Sample 879, Predict 32.6352, Real 31.2700, Error 1.3652
+Sample 880, Predict 34.7364, Real 40.6600, Error 5.9236
+Sample 881, Predict 12.8650, Real 15.5300, Error 2.6650
+Sample 882, Predict 34.1584, Real 33.7300, Error 0.4284
+Sample 883, Predict 22.5274, Real 27.2300, Error 4.7026
+Sample 884, Predict 16.8540, Real 17.2400, Error 0.3860
+Sample 885, Predict 42.0637, Real 45.0800, Error 3.0163
+Sample 886, Predict 42.6657, Real 38.4600, Error 4.2057
+Sample 887, Predict 7.1987, Real 4.7800, Error 2.4187
+Sample 888, Predict 40.2598, Real 40.3900, Error 0.1302
+Sample 889, Predict 18.5943, Real 15.3600, Error 3.2343
+Sample 890, Predict 72.2467, Real 74.5000, Error 2.2533
+Sample 891, Predict 36.8825, Real 44.3300, Error 7.4475
+Sample 892, Predict 54.1568, Real 55.2600, Error 1.1032
+Sample 893, Predict 36.4895, Real 33.0600, Error 3.4295
+Sample 894, Predict 50.1936, Real 53.7200, Error 3.5264
+Sample 895, Predict 22.0773, Real 23.1400, Error 1.0627
+Sample 896, Predict 56.6725, Real 50.0800, Error 6.5925
+Sample 897, Predict 37.2766, Real 36.1500, Error 1.1266
+Sample 898, Predict 22.0773, Real 26.9400, Error 4.8627
+Sample 899, Predict 65.0002, Real 64.3000, Error 0.7002
+Sample 900, Predict 43.6687, Real 52.2000, Error 8.5313
+Sample 901, Predict 29.5011, Real 27.9400, Error 1.5611
+Sample 902, Predict 10.0532, Real 9.6900, Error 0.3632
+Sample 903, Predict 52.8586, Real 46.6800, Error 6.1786
+Sample 904, Predict 53.4180, Real 57.0300, Error 3.6120
+Sample 905, Predict 42.8663, Real 30.0800, Error 12.7863
+Sample 906, Predict 34.1584, Real 43.3900, Error 9.2316
+Sample 907, Predict 46.4652, Real 52.4200, Error 5.9548
+Sample 908, Predict 49.4178, Real 45.0800, Error 4.3378
+Sample 909, Predict 30.7732, Real 28.6000, Error 2.1732
+Sample 910, Predict 14.8341, Real 15.3400, Error 0.5059
+Sample 911, Predict 49.8064, Real 60.9500, Error 11.1436
+Sample 912, Predict 71.2136, Real 77.3000, Error 6.0864
+Sample 913, Predict 31.1415, Real 31.9700, Error 0.8285
+Sample 914, Predict 47.4559, Real 39.4600, Error 7.9959
+Sample 915, Predict 60.0521, Real 56.7000, Error 3.3521
+Sample 916, Predict 24.0761, Real 24.8500, Error 0.7739
+Sample 917, Predict 47.2582, Real 40.9300, Error 6.3282
+Sample 918, Predict 39.2610, Real 37.2600, Error 2.0010
+Sample 919, Predict 41.4618, Real 42.4200, Error 0.9582
+Sample 920, Predict 40.4599, Real 44.6400, Error 4.1801
+Sample 921, Predict 43.8692, Real 33.1200, Error 10.7492
+Sample 922, Predict 32.0714, Real 38.5600, Error 6.4886
+Sample 923, Predict 23.6037, Real 24.5000, Error 0.8963
+Sample 924, Predict 33.7750, Real 37.4000, Error 3.6250
+Sample 925, Predict 42.0637, Real 40.1500, Error 1.9137
+Sample 926, Predict 61.3263, Real 67.7000, Error 6.3737
+Sample 927, Predict 31.8844, Real 33.9500, Error 2.0656
+Sample 928, Predict 28.0823, Real 38.6000, Error 10.5177
+Sample 929, Predict 14.3153, Real 15.0500, Error 0.7347
+Sample 930, Predict 33.5840, Real 33.1900, Error 0.3940
+Sample 931, Predict 16.5005, Real 30.9600, Error 14.4595
+Sample 932, Predict 37.2766, Real 23.8400, Error 13.4366
+Sample 933, Predict 13.4264, Real 12.1800, Error 1.2464
+Sample 934, Predict 48.6366, Real 51.0400, Error 2.4034
+Sample 935, Predict 75.2856, Real 79.4000, Error 4.1144
+Sample 936, Predict 50.3867, Real 44.5200, Error 5.8667
+Sample 937, Predict 45.2699, Real 44.2800, Error 0.9899
+Sample 938, Predict 36.0976, Real 29.5900, Error 6.5076
+Sample 939, Predict 17.2143, Real 15.4200, Error 1.7943
+Sample 940, Predict 24.7161, Real 23.7000, Error 1.0161
+Sample 941, Predict 44.8702, Real 49.8000, Error 4.9298
+Sample 942, Predict 42.8663, Real 45.9400, Error 3.0737
+Sample 943, Predict 35.1236, Real 33.4000, Error 1.7236
+Sample 944, Predict 38.8626, Real 37.9200, Error 0.9426
+Sample 945, Predict 55.7872, Real 55.1600, Error 0.6272
+Sample 946, Predict 25.5321, Real 23.5200, Error 2.0121
+Sample 947, Predict 49.8064, Real 47.8200, Error 1.9864
+Sample 948, Predict 57.0223, Real 57.9200, Error 0.8977
+Sample 949, Predict 66.0748, Real 61.0900, Error 4.9848
+Sample 950, Predict 28.6098, Real 29.7900, Error 1.1802
+Sample 951, Predict 25.2036, Real 23.8000, Error 1.4036
+Sample 952, Predict 34.1584, Real 33.7300, Error 0.4284
+Sample 953, Predict 29.3217, Real 32.9600, Error 3.6383
+Sample 954, Predict 14.2137, Real 14.9900, Error 0.7763
+Sample 955, Predict 31.1415, Real 24.1000, Error 7.0415
+Sample 956, Predict 58.2264, Real 66.7800, Error 8.5536
+Sample 957, Predict 11.4042, Real 13.6200, Error 2.2158
+Sample 958, Predict 19.1192, Real 16.2600, Error 2.8592
+Sample 959, Predict 55.6083, Real 55.0200, Error 0.5883
+Sample 960, Predict 54.8871, Real 52.5200, Error 2.3671
+Sample 961, Predict 25.5321, Real 22.5300, Error 3.0021
+Sample 962, Predict 21.7811, Real 24.2800, Error 2.4989
+Sample 963, Predict 25.0404, Real 32.8200, Error 7.7796
+Sample 964, Predict 8.8849, Real 7.7200, Error 1.1649
+Sample 965, Predict 37.4741, Real 23.8400, Error 13.6341
+Sample 966, Predict 50.9635, Real 52.4500, Error 1.4865
+Sample 967, Predict 34.9298, Real 32.6300, Error 2.2998
+Sample 968, Predict 14.0127, Real 9.7300, Error 4.2827
+Sample 969, Predict 21.1976, Real 20.7700, Error 0.4276
+Sample 970, Predict 24.5550, Real 24.2800, Error 0.2750
+Sample 971, Predict 39.4605, Real 41.0500, Error 1.5895
+Sample 972, Predict 12.6833, Real 12.8400, Error 0.1567
+Sample 973, Predict 13.1426, Real 11.9800, Error 1.1626
+Sample 974, Predict 40.8605, Real 40.5700, Error 0.2905
+Sample 975, Predict 41.0608, Real 41.0500, Error 0.0108
+Sample 976, Predict 43.4682, Real 37.8100, Error 5.6582
+Sample 977, Predict 55.2488, Real 61.4600, Error 6.2112
+Sample 978, Predict 20.2061, Real 19.2000, Error 1.0061
+Sample 979, Predict 39.8599, Real 43.5700, Error 3.7101
+Sample 980, Predict 45.0701, Real 34.7400, Error 10.3301
+Sample 981, Predict 38.8626, Real 36.3000, Error 2.5626
+Sample 982, Predict 24.8779, Real 25.1800, Error 0.3021
+Sample 983, Predict 72.6021, Real 79.3000, Error 6.6979
+Sample 984, Predict 31.1415, Real 29.5900, Error 1.5515
+Sample 985, Predict 18.7244, Real 17.5800, Error 1.1444
+Sample 986, Predict 14.1129, Real 13.1200, Error 0.9929
+Sample 987, Predict 68.3124, Real 74.1700, Error 5.8576
+Sample 988, Predict 30.7732, Real 31.8400, Error 1.0668
+Sample 989, Predict 58.0564, Real 76.2400, Error 18.1836
+Sample 990, Predict 26.1974, Real 24.2400, Error 1.9574
+Sample 991, Predict 36.0976, Real 43.7300, Error 7.6324
+Sample 992, Predict 18.3365, Real 20.5900, Error 2.2535
+Sample 993, Predict 36.2934, Real 38.0200, Error 1.7266
+Sample 994, Predict 43.8692, Real 43.8000, Error 0.0692
+Sample 995, Predict 14.8341, Real 15.4400, Error 0.6059
+Sample 996, Predict 13.8144, Real 14.2000, Error 0.3856
+Sample 997, Predict 14.7289, Real 19.5200, Error 4.7911
+Sample 998, Predict 19.2524, Real 22.1400, Error 2.8876
+Sample 999, Predict 27.3878, Real 22.7500, Error 4.6378
+Sample 1000, Predict 6.8882, Real 6.2800, Error 0.6082
+Sample 1001, Predict 63.4422, Real 67.1100, Error 3.6678
+Sample 1002, Predict 36.2934, Real 40.8600, Error 4.5666
+Sample 1003, Predict 10.6300, Real 10.7300, Error 0.1000
+Sample 1004, Predict 41.4618, Real 42.7000, Error 1.2382
+Sample 1005, Predict 65.1372, Real 79.9900, Error 14.8528
+Sample 1006, Predict 46.4652, Real 52.4300, Error 5.9648
+Sample 1007, Predict 26.8736, Real 26.3100, Error 0.5636
+Sample 1008, Predict 38.4648, Real 33.5600, Error 4.9048
+Sample 1009, Predict 15.1541, Real 13.5400, Error 1.6141
+Sample 1010, Predict 40.6601, Real 41.3700, Error 0.7099
+Sample 1011, Predict 50.3867, Real 54.1000, Error 3.7133
+Sample 1012, Predict 19.9298, Real 26.9200, Error 6.9902
+Sample 1013, Predict 47.2582, Real 39.4500, Error 7.8082
+Sample 1014, Predict 21.7811, Real 35.2300, Error 13.4489
+Sample 1015, Predict 26.5342, Real 26.2000, Error 0.3342
+Sample 1016, Predict 66.8483, Real 71.3000, Error 4.4517
+Sample 1017, Predict 35.3177, Real 36.3000, Error 0.9823
+Sample 1018, Predict 11.9830, Real 11.4700, Error 0.5130
+Sample 1019, Predict 38.6636, Real 36.8000, Error 1.8636
+Sample 1020, Predict 15.0467, Real 15.7500, Error 0.7033
+Sample 1021, Predict 43.4682, Real 33.4200, Error 10.0482
+Sample 1022, Predict 53.4180, Real 51.7300, Error 1.6880
+Sample 1023, Predict 21.6341, Real 35.2300, Error 13.5959
+Sample 1024, Predict 12.3279, Real 12.1800, Error 0.1479
+Sample 1025, Predict 65.0002, Real 69.8400, Error 4.8398
+Sample 1026, Predict 10.7800, Real 11.6500, Error 0.8700
+Sample 1027, Predict 20.6265, Real 14.7000, Error 5.9265
+Sample 1028, Predict 25.6974, Real 24.9200, Error 0.7774
+Sample 1029, Predict 16.3842, Real 25.4800, Error 9.0958
+Total MSE = 0.0040, Total Mae = 3.5875
+Total time = 17.750 sec
